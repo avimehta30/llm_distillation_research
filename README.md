@@ -31,4 +31,4 @@ with regularization to maintain watermark integrity through distillation.
 - **Frameworks:** PyTorch, HuggingFace Transformers
 
 ## Poster
-[View Research Poster](link-to-poster-pdf)
+[View Research Poster]([link-to-poster-pdf](https://github.com/avimehta30/llm_distillation_research/blob/main/Large%20Language%20Model%20Distillation%20Poster%20(3).pdf))
