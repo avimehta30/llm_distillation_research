@@ -33,4 +33,4 @@ with regularization to maintain watermark integrity through distillation.
 ## Poster
 ![Research Poster](poster.png)
 
-[Download PDF](https://github.com/avimehta30/llm_distillation_research/raw/main/Large%20Language%20Model%20Distillation%20Poster%20(3).pdf)
+[Download PDF](https://github.com/avimehta30/llm_distillation_research/raw/main/Large%20Language%20Model%20Distillation%20Poster.pdf)
